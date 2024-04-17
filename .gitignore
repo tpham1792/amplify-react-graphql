@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -22,6 +23,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+=======
+>>>>>>> develop
 #amplify-do-not-edit-begin
 amplify/\#current-cloud-backend
 amplify/.config/local-*
@@ -42,4 +45,8 @@ amplify-gradle-config.json
 amplifytools.xcconfig
 .secret-*
 **.sample
+<<<<<<< HEAD
 #amplify-do-not-edit-end
+=======
+#amplify-do-not-edit-end
+>>>>>>> develop

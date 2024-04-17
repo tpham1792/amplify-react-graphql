@@ -1,5 +1,12 @@
 {
+<<<<<<< HEAD
   "projectName": "AmplifyAppDev",
+=======
+  "providers": [
+    "awscloudformation"
+  ],
+  "projectName": "amplifyreactgraphql",
+>>>>>>> develop
   "version": "3.1",
   "frontend": "javascript",
   "javascript": {
@@ -7,6 +14,7 @@
     "config": {
       "SourceDir": "src",
       "DistributionDir": "build",
+<<<<<<< HEAD
       "BuildCommand": "npm run-script build",
       "StartCommand": "npm run-script start"
     }
@@ -14,4 +22,10 @@
   "providers": [
     "awscloudformation"
   ]
+=======
+      "BuildCommand": "npm run build",
+      "StartCommand": "npm run start"
+    }
+  }
+>>>>>>> develop
 }
