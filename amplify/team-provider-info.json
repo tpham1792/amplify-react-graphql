@@ -9,7 +9,7 @@
       "UnauthRoleName": "amplify-amplifyappdev-dev-f92ed-unauthRole",
       "StackName": "amplify-amplifyappdev-dev-f92ed",
       "StackId": "arn:aws:cloudformation:eu-west-3:975049973591:stack/amplify-amplifyappdev-dev-f92ed/74be6930-fbf1-11ee-afb8-06ef7bb407cf",
-      "AmplifyAppId": "dspfp5pobpden"
+      "AmplifyAppId": "d1fnxpmt0u7cd8"
     },
     "categories": {
       "auth": {
