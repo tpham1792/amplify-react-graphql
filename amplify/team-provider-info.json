@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "dev": {
     "awscloudformation": {
       "AuthRoleName": "amplify-amplifyappdev-dev-f92ed-authRole",
@@ -10,8 +9,7 @@
       "UnauthRoleName": "amplify-amplifyappdev-dev-f92ed-unauthRole",
       "StackName": "amplify-amplifyappdev-dev-f92ed",
       "StackId": "arn:aws:cloudformation:eu-west-3:975049973591:stack/amplify-amplifyappdev-dev-f92ed/74be6930-fbf1-11ee-afb8-06ef7bb407cf",
-      "AmplifyAppId": "d1fnxpmt0u7cd8"
-=======
+      "AmplifyAppId": "d1fnxpmt0u7cd8"},
   "main": {
     "awscloudformation": {
       "AuthRoleName": "amplify-amplifyappdev-main-796ad-authRole",
@@ -23,7 +21,6 @@
       "StackName": "amplify-amplifyappdev-main-796ad",
       "StackId": "arn:aws:cloudformation:eu-west-3:975049973591:stack/amplify-amplifyappdev-main-796ad/d13ae430-fc8d-11ee-a810-0aca0badcf4d",
       "AmplifyAppId": "d1cbidsv2mwgm8"
->>>>>>> develop
     },
     "categories": {
       "auth": {
